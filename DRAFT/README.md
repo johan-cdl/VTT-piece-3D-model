@@ -19,7 +19,7 @@ Après avoir pris les mesures nécessaires, j'ai pu facilement représenter la p
 
 ### Choix du matériaux
 
-
+Je n'ai pas pu trouver le matéraiux PLA sur la base de SOLIDWORKS
 <br/>
 
 ### Sollicitation
