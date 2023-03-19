@@ -19,8 +19,15 @@ Après avoir pris les mesures nécessaires, j'ai pu facilement représenter la p
 
 ### Choix du matériaux
 
-Je n'ai pas pu trouver le matéraiux PLA sur la base de SOLIDWORKS
+Je n'ai pas pu trouver le matéraiux PLA sur la base de SOLIDWORKS, mais j'ai pu choisir *la résine polyester* qui avait des propriétés de masses semblables à celles du PLA
 <br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/128179560/226183388-16b28faa-9a55-4ae7-8a9c-cd996ef6b341.png">
+</p>
+
+```
+J'obtiens donc une pièce prête à être sollicitée par des efforts que je vais définir
+```
 
 ### Sollicitation
 
