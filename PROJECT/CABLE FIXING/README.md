@@ -32,26 +32,34 @@ J'obtiens donc une pièce prête à être sollicitée par des efforts que je vai
 
 ## Sollicitation
 
-On peut imaginer une force (flèches oranges) au niveau d'attache des cables, la partie fixe se ferait sur le cadre du vélo (flèches vertes)
+On peut imaginer une force (flèches oranges et violettes) au niveau d'attache des cables et de la fixation au cadre (respectivement de 1 et 4 Newton), la partie fixe se ferait sur le cadre du vélo (flèches vertes)
 <br/>
 
-<img src="https://user-images.githubusercontent.com/128179560/226172518-9eb7fb0f-67c9-49f1-a03d-aacd1794a139.jpg" width="450" height="420" align="left">
-<img src="https://user-images.githubusercontent.com/128179560/226172552-95b7afbd-0c7e-4d68-b009-6da15185f860.jpg" width="450" height="420">
+<img src="https://user-images.githubusercontent.com/128179560/226191529-22b74a55-9bcb-41b1-ba6f-601eac85e0a0.jpg" width="450" height="420" align="left">
+<img src="https://user-images.githubusercontent.com/128179560/226191536-30cb7442-40a7-4edc-ac99-7706c8e6ce11.jpg" width="450" height="420">
+
+![actions mécaniques 3 sur piece](https://user-images.githubusercontent.com/128179560/226191543-7def972a-bd5b-4a04-8b32-e918ee211196.jpg)
 
 ```
-J'ai imaginé une force au niveau du passage des cables égale à 3 Newton (cette valeur n'est qu'à titre indicatif)
+J'ai imaginé des forces là où il serait le plus probable de les voir apparaître mais leurs valeurs ne servent qu'à titre indicatif
 Elle permet de voir les possibles déformations, mais ce n'est pas vraiment ce que la pièce subira
 ```
+
+> Exploitation du *critère de Von Mises*
+
+![actions mécaniques critere VM sur piece](https://user-images.githubusercontent.com/128179560/226191833-4062552e-0df5-455c-be5f-94a7eb11c9a5.jpg)
+
+> En vue de ce la pièce va pouvoir subir comme contrainte maximale, on peut en déduire grâce à cette évaluation que la pièce ne rencontrera pas forcément de problèmes. Elle a besoin d'être déformée un minimum pour se fixer sur le cadre plus facilement. 
 
 # **Mise en plan et finalisation**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/128179560/226169616-3924e904-5549-41d8-8ef3-d9796c66e628.jpg">
+  <img src="https://user-images.githubusercontent.com/128179560/226192303-2c7860ec-e71e-4f61-90aa-7164c7bdd904.jpg">
 </p>
 
-> La pièce a pu être bien installée et a bien remplacé l'ancienne :+1:
+> Comme la dernière pièce, celle-ci a pu être bien installée et a bien remplacé l'ancienne :+1:
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/128179560/226186223-47ca964b-08c9-4936-8291-9a71d61c26c6.png">
+  <img src="https://user-images.githubusercontent.com/128179560/226192377-8388f9ee-f40e-4612-a1fe-5fa6c9c029f4.png">
 </p>
