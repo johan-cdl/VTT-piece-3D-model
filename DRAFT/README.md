@@ -17,15 +17,22 @@ Après avoir pris les mesures nécessaires, j'ai pu facilement représenter la p
 
 ## **Simulation**
 
-On peut imaginer une force (flèches violettes) au niveau d'attache des cables, la partie fixe se ferait sur le cadre du vélo (flèches vertes)
+### Choix du matériaux
+
+
+<br/>
+
+### Sollicitation
+
+On peut imaginer une force (flèches oranges) au niveau d'attache des cables, la partie fixe se ferait sur le cadre du vélo (flèches vertes)
 <br/>
 
 <img src="https://user-images.githubusercontent.com/128179560/226172518-9eb7fb0f-67c9-49f1-a03d-aacd1794a139.jpg" width="450" height="420" align="left">
 <img src="https://user-images.githubusercontent.com/128179560/226172552-95b7afbd-0c7e-4d68-b009-6da15185f860.jpg" width="450" height="420">
 
 ```
-Avec la maitrise du logiciel, sa modélisation est finie rapidement 
-Après avoir pris les mesures nécessaires, j'ai pu facilement représenter la pièce sous SOLIDWORKS
+J'ai imaginé une force au niveau du passage des cables égale à 3 Newton (cette valeur n'est qu'à titre indicatif)
+Elle permet de voir les possibles déformations, mais ce n'est pas vraiment ce que la pièce subira
 ```
 
 ![Solidworks drawing file - piece VTT for cable](https://user-images.githubusercontent.com/128179560/226169616-3924e904-5549-41d8-8ef3-d9796c66e628.jpg)
