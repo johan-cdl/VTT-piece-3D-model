@@ -7,4 +7,4 @@
 <img src="https://user-images.githubusercontent.com/128179560/226188107-8cc64873-4911-4ff3-ad0a-f6234f1ff47e.jpg">
 
 
-*(modèle 3D téléchargé, auteur : PATRICKFANART)*
+*(modèle 3D téléchargé, créateur : PATRICKFANART)*
