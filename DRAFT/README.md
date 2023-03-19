@@ -19,7 +19,8 @@ Après avoir pris les mesures nécessaires, j'ai pu facilement représenter la p
 
 ### Choix du matériaux
 
-Je n'ai pas pu trouver le matéraiux PLA sur la base de SOLIDWORKS, mais j'ai pu choisir *la résine polyester* qui avait des propriétés de masses semblables à celles du PLA
+Je n'ai pas pu trouver le matéraiux PLA sur la base de SOLIDWORKS, mais j'ai pu choisir *la résine polyester* 
+qui avait des propriétés de masses semblables à celles du PLA
 <br/>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/128179560/226183388-16b28faa-9a55-4ae7-8a9c-cd996ef6b341.png">
@@ -42,4 +43,15 @@ J'ai imaginé une force au niveau du passage des cables égale à 3 Newton (cett
 Elle permet de voir les possibles déformations, mais ce n'est pas vraiment ce que la pièce subira
 ```
 
-![Solidworks drawing file - piece VTT for cable](https://user-images.githubusercontent.com/128179560/226169616-3924e904-5549-41d8-8ef3-d9796c66e628.jpg)
+## **Mise en plan et finalisation**
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/128179560/226169616-3924e904-5549-41d8-8ef3-d9796c66e628.jpg">
+</p>
+
+> La pièce a pu être bien installée et a bien remplacé l'ancienne :+1:
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/128179560/226186223-47ca964b-08c9-4936-8291-9a71d61c26c6.png">
+</p>
