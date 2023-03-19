@@ -1,10 +1,14 @@
 # **Modélisation**
 
-Le logiciel SOLIDWORKS me permet de modéliser la pièce qui a été cassée ou qu'il est nécessaire de dupliquer
+De la même manière, le logiciel SOLIDWORKS me permet de modéliser la pièce qui a été cassée ou qu'il est nécessaire de dupliquer
 <br/>
 
-<img src="https://user-images.githubusercontent.com/128179560/226169853-631b1ef3-18cf-4066-9163-15b9c16f027c.png" width="450" height="420" align="left">
-<img src="https://user-images.githubusercontent.com/128179560/226170604-91d0d474-db3e-42e9-8945-7e3951d061d3.png" width="450" height="420">
+<img src="https://user-images.githubusercontent.com/128179560/226191084-4332dcf3-9ea9-463c-aa4a-027c25708301.jpg" width="450" height="420" align="left">
+<img src="https://user-images.githubusercontent.com/128179560/226191092-0239566c-5bd4-42fa-a57c-333acebf02e0.jpg" width="450" height="420">
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/128179560/226191096-5cb8977d-d45b-4d1e-913e-3da26298ff38.jpg" width="500" height="420">
+</p>
 
 ```
 Avec la maitrise du logiciel, sa modélisation est finie rapidement 
@@ -19,7 +23,7 @@ Je n'ai pas pu trouver le matéraiux PLA sur la base de SOLIDWORKS, mais j'ai pu
 qui avait des propriétés de masses semblables à celles du PLA
 <br/>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/128179560/226183388-16b28faa-9a55-4ae7-8a9c-cd996ef6b341.png">
+  <img src="https://user-images.githubusercontent.com/128179560/226191465-06009595-010b-4cd7-af91-e90e548a33c4.jpg">
 </p>
 
 ```
